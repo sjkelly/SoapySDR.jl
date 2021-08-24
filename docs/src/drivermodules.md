@@ -13,3 +13,9 @@ For example:
 ```
 julia> using SoapySDR, xtrx_jll
 ```
+
+or:
+
+```
+julia> using SoapySDR, soapyrtlsdr_jll
+```
